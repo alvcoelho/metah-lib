@@ -1,0 +1,2 @@
+# metah-lib
+This project aims at integrating into the same Java framework a significant account of the most well-known population-based and trajectory-based metaheuristics. This is a research initiative carried out by graduate students affiliated with the Graduate Program in Applied Informatics (PPGIA) at the University of Fortaleza (UNIFOR), Brazil, under the supervision of Prof. André Coelho. The project is temporarily inactive, but may become active again in the future.
